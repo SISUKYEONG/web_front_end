@@ -1,0 +1,10 @@
+.btn {
+  background-color: red;
+  color: white;
+}
+.input {
+  width: 100%;
+}
+.label {
+  display: Block;
+}
